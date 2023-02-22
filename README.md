@@ -17,11 +17,10 @@ For the communication between server and client sockets will be used and for the
 
 ---
 
- In the first project a graphical interface was developed for the different user functionalities, using java swing.
+In the first project a graphical interface was developed for the different user functionalities, using java swing.
+
 
 In the second project a Web application was developed that is able to transmit and receive 
-information from a user to a server, over the Internet.
-
-In order to generate dynamic web pages capable of interpreting and displaying the received messages 
+information from a user to a server, over the Internet. In order to generate dynamic web pages capable of interpreting and displaying the received messages 
 visually appealing to the user, JavaServer Pages and client-side technologies 
 technologies (Javascript and CSS) were used.
