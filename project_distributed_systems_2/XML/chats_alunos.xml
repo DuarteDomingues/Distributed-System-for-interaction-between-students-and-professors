@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><chats>
+
+
+
+
+
+
+
+<chat id="1"><admin id_admin="2"/><group_name>boyz</group_name><students><student id="2"/><student id="3"/></students>
+
+
+<mensagens>
+
+<mensagem>
+<membro id="2"/>
+<texto>Mequie boiiiiii</texto>
+<date>14/05/2021</date>
+</mensagem>
+
+<mensagem>
+<membro id="3"/>
+<texto>Mequie broooooo</texto> 
+<date>15/05/2021</date>
+</mensagem>
+
+<mensagem><membro id="2"/><texto>dsa</texto><date>29/05/2021</date></mensagem><mensagem><membro id="2"/><texto>da</texto><date>29/05/2021</date></mensagem><mensagem><membro id="2"/><texto>aa</texto><date>29/05/2021</date></mensagem><mensagem><membro id="2"/><texto>dsa</texto><date>29/05/2021</date></mensagem><mensagem><membro id="2"/><texto>kappa</texto><date>29/05/2021</date></mensagem><mensagem><membro id="2"/><texto>kappa2</texto><date>29/05/2021</date></mensagem><mensagem><membro id="2"/><texto>kappa3</texto><date>29/05/2021</date></mensagem><mensagem><membro id="2"/><texto>olaa</texto><date>29/05/2021</date></mensagem><mensagem><membro id="2"/><texto>hey</texto><date>29/05/2021</date></mensagem><mensagem><membro id="2"/><texto>kappppa</texto><date>29/05/2021</date></mensagem><mensagem><membro id="3"/><texto>da</texto><date>29/05/2021</date></mensagem><mensagem><membro id="3"/><texto>da</texto><date>29/05/2021</date></mensagem><mensagem><membro id="2"/><texto>ola</texto><date>29/05/2021</date></mensagem><mensagem><membro id="2"/><texto>ola2</texto><date>29/05/2021</date></mensagem><mensagem><membro id="2"/><texto>a</texto><date>29/05/2021</date></mensagem><mensagem><membro id="2"/><texto>2</texto><date>29/05/2021</date></mensagem><mensagem><membro id="2"/><texto>2d</texto><date>29/05/2021</date></mensagem><mensagem><membro id="2"/><texto>a</texto><date>29/05/2021</date></mensagem><mensagem><membro id="2"/><texto>a</texto><date>29/05/2021</date></mensagem><mensagem><membro id="2"/><texto>a</texto><date>29/05/2021</date></mensagem><mensagem><membro id="2"/><texto>a</texto><date>29/05/2021</date></mensagem><mensagem><membro id="2"/><texto>aa</texto><date>29/05/2021</date></mensagem><mensagem><membro id="2"/><texto>aa</texto><date>29/05/2021</date></mensagem><mensagem><membro id="2"/><texto>oi</texto><date>29/05/2021</date></mensagem><mensagem><membro id="2"/><texto>a</texto><date>29/05/2021</date></mensagem><mensagem><membro id="2"/><texto>da</texto><date>29/05/2021</date></mensagem></mensagens>
+
+
+</chat>
+
+
+
+<chat id="2"><admin id_admin="2"/><group_name>manobros</group_name><students><student id="2"/><student id="3"/></students>
+
+<mensagens>
+
+<mensagem>
+<membro id="2"/>
+<texto>Mequie boiiiiii</texto>
+<date>14/05/2021</date>
+</mensagem>
+
+<mensagem>
+<membro id="3"/>
+<texto>Mequie broooooo</texto> 
+<date>15/05/2021</date>
+</mensagem>
+
+</mensagens>
+
+
+</chat>
+ 
+
+
+</chats>

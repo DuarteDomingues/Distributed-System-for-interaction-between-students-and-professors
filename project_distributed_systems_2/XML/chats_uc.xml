@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><chats>
+<chat id_uc="1">
+
+<admin id="1"/>
+
+<users>
+
+<user id="1"/>
+<user id="2"/>
+
+
+</users>
+
+<mensagens>
+
+<mensagem>
+<membro id="1"/>
+<texto>Mequie bro</texto>
+<date>14/05/2021</date>
+</mensagem>
+
+<mensagem>
+<membro id="2"/>
+<texto>Mequie maninho</texto> 
+<date>15/05/2021</date>
+
+</mensagem>
+<mensagem><membro id="2"/><texto>oi</texto><date>22/05/2021</date></mensagem><mensagem><membro id="2"/><texto>oi</texto><date>22/05/2021</date></mensagem><mensagem><membro id="2"/><texto>ola</texto><date>22/05/2021</date></mensagem><mensagem><membro id="2"/><texto>daxd</texto><date>22/05/2021</date></mensagem><mensagem><membro id="1"/><texto>Jones gang</texto><date>22/05/2021</date></mensagem><mensagem><membro id="1"/><texto>kappa</texto><date>24/05/2021</date></mensagem><mensagem><membro id="2"/><texto>dasd</texto><date>28/05/2021</date></mensagem><mensagem><membro id="2"/><texto>s</texto><date>29/05/2021</date></mensagem><mensagem><membro id="2"/><texto>a</texto><date>29/05/2021</date></mensagem><mensagem><membro id="2"/><texto>x</texto><date>29/05/2021</date></mensagem><mensagem><membro id="2"/><texto>xd</texto><date>29/05/2021</date></mensagem><mensagem><membro id="2"/><texto>d</texto><date>29/05/2021</date></mensagem><mensagem><membro id="2"/><texto>dsa</texto><date>29/05/2021</date></mensagem><mensagem><membro id="2"/><texto>dsada</texto><date>29/05/2021</date></mensagem><mensagem><membro id="2"/><texto>dsada</texto><date>29/05/2021</date></mensagem><mensagem><membro id="2"/><texto>a</texto><date>29/05/2021</date></mensagem><mensagem><membro id="2"/><texto>d</texto><date>29/05/2021</date></mensagem><mensagem><membro id="2"/><texto>d</texto><date>29/05/2021</date></mensagem><mensagem><membro id="2"/><texto>dsa</texto><date>29/05/2021</date></mensagem><mensagem><membro id="2"/><texto>a</texto><date>29/05/2021</date></mensagem><mensagem><membro id="2"/><texto>da</texto><date>29/05/2021</date></mensagem><mensagem><membro id="2"/><texto>oi</texto><date>29/05/2021</date></mensagem><mensagem><membro id="2"/><texto>oida</texto><date>29/05/2021</date></mensagem><mensagem><membro id="2"/><texto>a</texto><date>29/05/2021</date></mensagem><mensagem><membro id="2"/><texto>a</texto><date>29/05/2021</date></mensagem><mensagem><membro id="2"/><texto>a</texto><date>29/05/2021</date></mensagem><mensagem><membro id="2"/><texto>a</texto><date>29/05/2021</date></mensagem><mensagem><membro id="2"/><texto>a</texto><date>29/05/2021</date></mensagem><mensagem><membro id="2"/><texto>a</texto><date>29/05/2021</date></mensagem><mensagem><membro id="2"/><texto>a</texto><date>29/05/2021</date></mensagem><mensagem><membro id="2"/><texto>dsadsa</texto><date>29/05/2021</date></mensagem><mensagem><membro id="2"/><texto>dsa</texto><date>29/05/2021</date></mensagem><mensagem><membro id="2"/><texto>dsadsa</texto><date>29/05/2021</date></mensagem><mensagem><membro id="2"/><texto>dsadsadsa</texto><date>29/05/2021</date></mensagem><mensagem><membro id="2"/><texto>dsadsadsasa</texto><date>29/05/2021</date></mensagem><mensagem><membro id="2"/><texto>dsadsadsasada</texto><date>29/05/2021</date></mensagem></mensagens>
+
+</chat>
+
+<chat id_uc="2"><admin id="1"/><mensagens><mensagem><membro id="1"/><texto>dsa</texto><date>30/05/2021</date></mensagem></mensagens><users><user id="1"/><user id="3"/></users></chat></chats>

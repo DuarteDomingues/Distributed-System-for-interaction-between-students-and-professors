@@ -1,0 +1,34 @@
+<ucs>
+<uc id="1">
+<name>Engenharia de XML</name>
+
+	<turma turma_id="2">
+	<nome>21D</nome>
+	
+	<membros>
+	<membro membro_id="1"/>
+	<membro membro_id="2"/>
+	
+	</membros>
+	
+	</turma>
+	
+	
+</uc>
+<uc id="2">
+<name>Interação Pessoa Maquina</name>
+
+	<turma turma_id="1">
+	<nome>22D</nome>
+	
+	<membros>
+	<membro membro_id="1"/>
+	<membro membro_id="3"/>
+	
+	
+	</membros>
+	
+	</turma>
+</uc>
+
+</ucs>

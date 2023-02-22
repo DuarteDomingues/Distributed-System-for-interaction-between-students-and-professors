@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><chats>
+
+
+<chat id_turma="1" id_uc="1">
+
+<admin id_admin="1"/>
+
+<users>
+
+<user id="1"/>
+<user id="2"/>
+
+
+</users>
+
+
+<mensagens>
+
+<mensagem>
+<membro id="1"/>
+<texto>Mequie bro</texto>
+<date>14/05/2021</date>
+</mensagem>
+
+<mensagem>
+<membro id="2"/>
+<texto>Mequie maninho</texto> 
+<date>15/05/2021</date>
+
+</mensagem>
+
+
+</mensagens>
+</chat>
+
+
+<chat id_turma="2" id_uc="1">
+
+<admin id_admin="2"/>
+
+<users>
+
+<user id="1"/>
+<user id="2"/>
+
+
+</users>
+
+<mensagens>
+
+<mensagem>
+<membro id="2"/>
+<texto>Mequie brozao</texto>
+<date>14/05/2021</date>
+</mensagem>
+
+
+<mensagem><membro id="2"/><texto>22/05/2021 </texto><date>hehe xd</date></mensagem><mensagem><membro id="2"/><texto>boi</texto><date>22/05/2021 </date></mensagem><mensagem><membro id="2"/><texto>boi3</texto><date>22/05/2021 </date></mensagem><mensagem><membro id="2"/><texto>boi2</texto><date>22/05/2021 </date></mensagem><mensagem><membro id="2"/><texto>boi1</texto><date>22/05/2021 </date></mensagem><mensagem><membro id="2"/><texto>kapa2</texto><date>22/05/2021 </date></mensagem><mensagem><membro id="2"/><texto>ola</texto><date>22/05/2021 </date></mensagem><mensagem><membro id="2"/><texto>ola1</texto><date>22/05/2021 </date></mensagem><mensagem><membro id="2"/><texto>ola2</texto><date>22/05/2021 </date></mensagem><mensagem><membro id="2"/><texto>ola3</texto><date>22/05/2021 </date></mensagem><mensagem><membro id="2"/><texto>XD</texto><date>22/05/2021 </date></mensagem><mensagem><membro id="2"/><texto>OLAAA</texto><date>22/05/2021 </date></mensagem><mensagem><membro id="2"/><texto>XD</texto><date>22/05/2021 </date></mensagem><mensagem><membro id="2"/><texto>XD2</texto><date>22/05/2021 </date></mensagem><mensagem><membro id="2"/><texto>camelo</texto><date>22/05/2021 </date></mensagem><mensagem><membro id="2"/><texto>hello jones</texto><date>22/05/2021 </date></mensagem><mensagem><membro id="2"/><texto>dasa</texto><date>22/05/2021 </date></mensagem><mensagem><membro id="2"/><texto/><date>22/05/2021 </date></mensagem><mensagem><membro id="2"/><texto/><date>22/05/2021 </date></mensagem><mensagem><membro id="2"/><texto/><date>22/05/2021 </date></mensagem><mensagem><membro id="2"/><texto/><date>22/05/2021 </date></mensagem><mensagem><membro id="2"/><texto/><date>22/05/2021 </date></mensagem><mensagem><membro id="2"/><texto/><date>22/05/2021 </date></mensagem><mensagem><membro id="2"/><texto/><date>22/05/2021 </date></mensagem><mensagem><membro id="2"/><texto>helo</texto><date>22/05/2021 </date></mensagem><mensagem><membro id="2"/><texto>helo</texto><date>22/05/2021 </date></mensagem><mensagem><membro id="2"/><texto>helo</texto><date>22/05/2021 </date></mensagem><mensagem><membro id="2"/><texto>helo</texto><date>22/05/2021 </date></mensagem><mensagem><membro id="1"/><texto>yo tavora</texto><date>22/05/2021 </date></mensagem><mensagem><membro id="2"/><texto>fds</texto><date>22/05/2021 </date></mensagem><mensagem><membro id="2"/><texto>cona</texto><date>22/05/2021 </date></mensagem><mensagem><membro id="2"/><texto>ola</texto><date>22/05/2021</date></mensagem><mensagem><membro id="2"/><texto>ola2</texto><date>22/05/2021</date></mensagem><mensagem><membro id="2"/><texto>ola</texto><date>29/05/2021</date></mensagem><mensagem><membro id="2"/><texto>s</texto><date>29/05/2021</date></mensagem><mensagem><membro id="2"/><texto>s</texto><date>29/05/2021</date></mensagem><mensagem><membro id="2"/><texto>s</texto><date>29/05/2021</date></mensagem><mensagem><membro id="2"/><texto>da</texto><date>29/05/2021</date></mensagem><mensagem><membro id="2"/><texto>xd</texto><date>29/05/2021</date></mensagem><mensagem><membro id="2"/><texto>da</texto><date>29/05/2021</date></mensagem><mensagem><membro id="2"/><texto>dada</texto><date>29/05/2021</date></mensagem><mensagem><membro id="2"/><texto>da</texto><date>29/05/2021</date></mensagem></mensagens>
+
+</chat>
+
+<chat id_turma="1" id_uc="2"><admin id_admin="1"/><mensagens><mensagem><membro id="1"/><texto>das</texto><date>30/05/2021</date></mensagem></mensagens><users><user id="1"/><user id="3"/></users></chat></chats>

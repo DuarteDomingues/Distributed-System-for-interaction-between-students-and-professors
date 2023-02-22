@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+        
+    <wb-module deploy-name="tp2_iecd">
+                
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <wb-resource deploy-path="/" source-path="/XML/WebContent"/>
+                
+        <property name="context-root" value="tp2_iecd"/>
+                
+        <property name="java-output-path" value="/tp2_iecd/build/classes"/>
+            
+    </wb-module>
+    
+</project-modules>
